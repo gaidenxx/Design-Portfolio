@@ -14,12 +14,16 @@
 # Prototypes Figma & AdobeXD
   A design prototype step is an interactive and visual model of the product after I've done with the wireframe step, that shows how it will look and work. It is used to test ideas, user flow, and functionality before final development.
 
-  S4F Mobile (AdobeXD):
-  [Access my Mobile Prototype](https://xd.adobe.com/view/ab559401-ab07-4132-88ab-a019e2630839-fe06/grid/)
-  [Access my Logo & Banners Prototypes](https://xd.adobe.com/view/4e1dedd0-12f1-4b27-afaa-84d5576477c8-1b4e/grid)
+### S4F Mobile (AdobeXD)
   
-  Cortex (AdobeXD):
+  [Access my Mobile Prototype](https://xd.adobe.com/view/ab559401-ab07-4132-88ab-a019e2630839-fe06/grid/)
+  
+  [Access my Logo & Banners Prototypes](https://xd.adobe.com/view/4e1dedd0-12f1-4b27-afaa-84d5576477c8-1b4e/grid)
+
+### Cortex (AdobeXD)
+  
   [Access my Cortex Web Prototype](https://xd.adobe.com/view/b6595c3f-3fba-4e97-b162-9fe5aa88acab-e30a/grid)
   
-  Cortex-Migration (Figma):
+### Cortex-Migration (Figma)
+  
   [Access my Figma Prototype](https://www.figma.com/design/nS0nxxjtBpIoE9lCTrJud1/Cortex-Migration?t=7K9jfW7xK6E5pOd1-1)
