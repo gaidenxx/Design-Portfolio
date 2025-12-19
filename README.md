@@ -1,6 +1,3 @@
-## Design-Portfolio
-  Repository for Design UI/UX portfolio - wireframes and prototypes
-
 # About me
   I am a passionate Front-end/Full-stack Developer and UI/UX Designer from Brazil, with a great knack for solving problems and creating innovative web projects. I’m always looking for opportunities to grow and improve my skills. 
   
