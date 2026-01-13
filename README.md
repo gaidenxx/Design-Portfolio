@@ -1,5 +1,5 @@
 # About me
-  I am a passionate Front-end/Full-stack Developer and UI/UX Designer from Brazil, with a great knack for solving problems and creating innovative web projects. I’m always looking for opportunities to grow and improve my skills. 
+  I am a passionate Front-end/Full-stack Developer with UI/UX Designer skills from Brazil, with a great knack for solving problems and creating innovative web projects. I’m always looking for opportunities to grow and improve my skills. 
   
   Below you can see some of my wireframe and prototype projects that have already been developed and delivered to users.
 
